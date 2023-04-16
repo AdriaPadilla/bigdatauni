@@ -50,12 +50,38 @@ Aquestes han estat les 5 categories amb més hores d'streaming, i podem veure la
 
 ###¿Cuál es la distribución de los streamers si los clasificamos por volumenes de audiencia y horas realizadas?
 
+Si classifiquem per hores d'streaming veiem que la inmensa majoria d'streamers (98%) no han arribat a les 10h menusuals. Seguidament un 1,5% d'streamers han realitzat entre 20 i 50h. Ja per acabar, un 0,1% està entre 50 i 100h, i només un 0.06% dels streamers superen les 100h mensuals (unes 4 hores al dia).
+
+![image](https://user-images.githubusercontent.com/84017268/232304147-139654c6-e46d-4649-b678-57358399807b.png)
+
+Si classifiquem els streamers per mitjana de viewers (total viewers/hores d'streaming) trobem la següent classificació:
+- 0-10 viewers: 84%
+- 10-50 viewers: 7%
+- 50-500 viewers: 7%
+- 500-2000 viewers: 1.2%
+- 2000-10k viewers: 0.3%
+- 10k-50k viewers: 0.09%
+- +50k viewers: 0.03%
+
+![image](https://user-images.githubusercontent.com/84017268/232303449-299a32f3-da05-4f06-896d-c306de3faa4f.png)
+
 
 
 ###¿Cuál ha sido la evolución (captura a captura) de la desviación estándar en el volúmen de espectadores? ¿En qué momentos las audiencias se encuentran más polarizadas y en qué momentos la distribución es más uniforme?
 
+La desviació estàndard segueix el mateix patró que el viewer_count. Això va molt relacionat amb les estadístiques de com es reparteixen els viewers entre els streamers. A partir de les 18h comencen a entrar els streamers grans i comença el pic de públic. La gran majoria de públic es reparteix entre els mateixos streamers, i és per això que la desviació és major. 
+
+En canvi, durant els matins no hi ha figures mediàtiques, i els espectadors estan molt més repartits. 
+
+![image](https://user-images.githubusercontent.com/84017268/232307672-a62e6495-e498-4356-a4cb-2aa8aa816f06.png)
 
 
-Debes dar respuesta a cada una de estas preguntas creando un código de Python que genere un nuevo dataset que contenga (únicamente) los datos necesarios para responder a la pregunta.
+![image](https://user-images.githubusercontent.com/84017268/232307727-8e17399c-7e7b-40ad-85de-7e2dd8f1dd1d.png)
+
+A nivell de conclusió, es veu clarament que hi ha un grupet molt petit d'streamers que engloben pràcticament el 100% de l'audiència de Twitch, mentres que hi ha molt més contingut a la part inferior de l'iceberg de Twitch. També queda clar que durant el matí hi ha menys espectadors però molt més repartits, ja que normalment els streamers més mediàtics es connecten a la tarda/vespre. 
+
+Si jo volgués començar a fer streaming quan els faria, tenint en compte aquestes dades?
+
+Si ara volgués començar a fer directes a Twitch, després de veure aquestes dades m'hi posaria durant el matí. L'audiència està més repartida i hi ha menys gent fent directe. Per tant, penso que pot resultar més senzill començar arebre audiència nova.
 
 
