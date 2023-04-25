@@ -1,10 +1,10 @@
 En primer lloc, aclarir que els gràfics del tableau estan posats mitjançant captures de pantalla, ja que no he aconseguit treure el codi embed des del meu tableau. Se'm bloquejava el'inici de sessió al Tableau Public sistemàticament.
 
-#ANÀLISI TWITCH FEBRER 2023
+# ANÀLISI TWITCH FEBRER 2023
 
 En aquest estudi s'analitzen les dades del contingut en espanyol a Twitch durant tot el mes de febrer de 2023. És important tenir en compte que el contingut en espanyol inclou Espanya i també llatino-amèrica (unes 6h de retràs respecte Europa de mitjana). Aquesta dada resultarà molt important a l'hora d'analitzar el nombre de viewers.
 
-###¿Cuál ha sido la evolución de espectadores (captura a captura) durante el periodo?
+### ¿Cuál ha sido la evolución de espectadores (captura a captura) durante el periodo?
 
 L'evolució dels viewers captura a captura forma un recorregut recurrent. Cada dia es crea una vall de les 4 del matí a les 18h, trobant el seu pic mínim entre les 10 i les 12 del matí. En aquest punt del dia els espanyols s'estan llevant o estan treballant i els de LATAM estan encara dormint.
 Per altra banda, els pics superios varien depenent del contingut que s'estigui mostrant en aquell dia, pero sempre dins el rang de les 18h-03h, que és quan els espanyols estan a punt d'anar a dormir i els de LATAM comencen a arribar a casa. 
